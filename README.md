@@ -1,5 +1,7 @@
+我在用Text Kit做一个阅读器的练习时发现一个问题：界面上的文字无法选中，不显示放大镜和编辑菜单。
 
-我在用Text Kit做一个阅读器的练习时发现一个问题：界面上的文字无法选中且，不显示编辑菜单。
+正常情况：
+![image](https://github.com/Sinkup/TextViewInScrollView/raw/master/snapshot.png)
 
 程序结构、效果大致如下：
 
